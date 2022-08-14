@@ -1,0 +1,13 @@
+Email your favourite quote to me
+
+but using python 
+
+Steps :
+quote="So, verily, with every difficulty, there is relief, Verily, with every difficulty, there is relief"
+email this string to my email address ( mashihoor@gmail.com)
+
+
+Hint: 
+mail sending program using python 
+smtp library
+smtop allow in gmail settings etc.
